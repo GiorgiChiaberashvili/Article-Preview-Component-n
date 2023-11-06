@@ -60,7 +60,7 @@ body {
     width: 100%;
     max-width: 26rem;
     height: 100%;
-    border-radius: 10px 0px 0px 10px;
+    border-radius: 10px 0px 0px 0px;
     box-shadow: 0rem 2.5rem 2.5rem -0.625rem rgba(201, 213, 225, 0.503415);
 }
 
